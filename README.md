@@ -44,7 +44,9 @@ The code provides a simple implementation of a queue using a linked list. It inc
 
 ## Usage
 
-You can use this implementation by including the provided functions in your C program. Simply include the `queue.h` file in your code and use the functions as needed.
+1. Include the `queue.h` header file in your program.
+2. Compile your program with the `queue.c` implementation file.
+3. Use the provided stack functions in your code for stack operations.
 
 ## Sample Test
 
